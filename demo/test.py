@@ -18,6 +18,7 @@ def run(yun_name):
     idcs = strat.get_result()
 
 
+
     #查询Region中服务器信息
     for idc in idcs:
         print(idc)
